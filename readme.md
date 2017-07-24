@@ -1,6 +1,8 @@
 # SUASDMHack
 <h1>Repository for 2017 Science sUAS Data Management Hackathon</h1>
 
+** NOTES: [https://docs.google.com/document/d/1B2GETVKl5S1MJrKSwWTmNaD6K5-BRZWfyerCzrNMpdw/edit] **
+
 **Call for participation!**
 
 Do you like robots? Do you like flying robots? Do you like open earth science data? Do you like flying robots that collect earth science data to help solve important global challenges?
