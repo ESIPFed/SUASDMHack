@@ -1,0 +1,3 @@
+#Date: 24-5-16
+#Site: Shelbourn field B
+#Description: First test flight of Iris with CanonS100-NIR

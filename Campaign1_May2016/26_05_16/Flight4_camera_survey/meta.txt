@@ -1,0 +1,7 @@
+#Date: 26-05-16
+#Site: Shelbourne field A
+#Description: Run survey at 100m
+Picture ever 6/s
+Flight speed: 3m/s
+
+Success

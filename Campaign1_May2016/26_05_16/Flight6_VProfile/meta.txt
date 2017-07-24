@@ -1,0 +1,12 @@
+Date: 26-5-16, afternoon
+Site: Shelbourn field A
+#Description: 
+Take off to 5m
+60s @2m
+60s @4m
+60s @6m
+60s @8m
+60s @10m
+land
+
+This flight was done with CO2meter and Pi onboard and trailing PAS tube.  Afternoon flight, diesl generator running in near vicinity for PAS

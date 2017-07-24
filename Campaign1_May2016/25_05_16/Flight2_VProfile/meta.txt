@@ -1,0 +1,9 @@
+#Date: 25-5-16
+#Site: Shelbourn field A
+#Description
+Takeoff to 120m
+move horizontally to get over power lines
+Decend to 10m
+Gradual horizontal climb over field stopping every 10m vertical for 5sec till at 120m
+Move at 120m to over forest
+Return home via automated decent

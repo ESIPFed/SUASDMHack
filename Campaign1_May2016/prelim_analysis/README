@@ -1,0 +1,10 @@
+#Commands executed to create the plots in this folder
+$ cd Analysis/
+$ cp ../../src/VProfile_plots.py ./
+$ python VProfile_plots.py plotcleaned 260516_afternoon.csv 260516_morning.csv 270516_morning.csv
+$ mv images/ cleaned
+$ python VProfile_plots.py plotaligned 71 260516_afternoon.csv 260516_morning.csv 270516_morning.csv
+$ mv images/ aligned
+$ python VProfile_plots.py plotmulti 71 260516_afternoon.csv 260516_morning.csv 270516_morning.csv
+$ mv images/ multi_aligned
+$ python VProfile_plots.py clean

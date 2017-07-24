@@ -1,0 +1,7 @@
+Data is organised into days.
+
+Inside days Flights are stored.  Data found may include:
+> meta.txt - verbal description of the flight
+> *.csv data
+> *.jpg images
+> *. xls PAS information

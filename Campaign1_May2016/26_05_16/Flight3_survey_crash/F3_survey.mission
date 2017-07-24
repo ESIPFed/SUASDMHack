@@ -1,0 +1,617 @@
+{
+    "MAV_AUTOPILOT": 3,
+    "complexItems": [
+    ],
+    "groundStation": "QGroundControl",
+    "items": [
+        {
+            "autoContinue": true,
+            "command": 22,
+            "coordinate": [
+                0,
+                0,
+                30
+            ],
+            "frame": 3,
+            "id": 1,
+            "param1": 20,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 178,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 2,
+            "param1": 0,
+            "param2": 5,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380050659179688,
+                -73.259162902832031,
+                7
+            ],
+            "frame": 3,
+            "id": 3,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 4,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.38323974609375,
+                -73.258766174316406,
+                7
+            ],
+            "frame": 3,
+            "id": 5,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 6,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.382545471191406,
+                -73.2586669921875,
+                7
+            ],
+            "frame": 3,
+            "id": 7,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 8,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380043029785156,
+                -73.25897216796875,
+                7
+            ],
+            "frame": 3,
+            "id": 9,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 10,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380031585693359,
+                -73.258781433105469,
+                7
+            ],
+            "frame": 3,
+            "id": 11,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 12,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.381664276123047,
+                -73.258583068847656,
+                7
+            ],
+            "frame": 3,
+            "id": 13,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 14,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380783081054688,
+                -73.258506774902344,
+                7
+            ],
+            "frame": 3,
+            "id": 15,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 16,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380020141601562,
+                -73.258598327636719,
+                7
+            ],
+            "frame": 3,
+            "id": 17,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 18,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380062103271484,
+                -73.259346008300781,
+                7
+            ],
+            "frame": 3,
+            "id": 19,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 20,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.383270263671875,
+                -73.258949279785156,
+                7
+            ],
+            "frame": 3,
+            "id": 21,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 22,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.38330078125,
+                -73.259132385253906,
+                7
+            ],
+            "frame": 3,
+            "id": 23,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 24,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380073547363281,
+                -73.259536743164062,
+                7
+            ],
+            "frame": 3,
+            "id": 25,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 26,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380081176757812,
+                -73.259727478027344,
+                7
+            ],
+            "frame": 3,
+            "id": 27,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 28,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.383331298828125,
+                -73.259323120117188,
+                7
+            ],
+            "frame": 3,
+            "id": 29,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 30,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.383365631103516,
+                -73.259506225585938,
+                7
+            ],
+            "frame": 3,
+            "id": 31,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 32,
+            "param1": 5.115384578704834,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                44.380092620849609,
+                -73.259910583496094,
+                7
+            ],
+            "frame": 3,
+            "id": 33,
+            "param1": 4,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 34,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 206,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 35,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 178,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 0,
+            "id": 36,
+            "param1": 0,
+            "param2": 5,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 20,
+            "coordinate": [
+                0,
+                0,
+                0
+            ],
+            "frame": 3,
+            "id": 37,
+            "param1": 0,
+            "param2": 0,
+            "param3": 0,
+            "param4": 0,
+            "type": "missionItem"
+        }
+    ],
+    "plannedHomePosition": {
+        "autoContinue": true,
+        "command": 16,
+        "coordinate": [
+            44.3800048828125,
+            -73.258140563964844,
+            60.449996948242188
+        ],
+        "frame": 0,
+        "id": 0,
+        "param1": 0,
+        "param2": 0,
+        "param3": 0,
+        "param4": 0,
+        "type": "missionItem"
+    },
+    "version": "1.0"
+}

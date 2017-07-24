@@ -1,0 +1,6 @@
+#Date: 25-5-16
+#Site: Shelbourn field A
+#Description: Vertical profile
+5-90m, 20s stops, 5-50 in 5m increments, 50-90 in 10m steps
+At 90m n error in programming saw it drop to 25m for 20 and then return to 90 for its decent
+At ~20m it aborted for unknown reasons and dropped suddenly
